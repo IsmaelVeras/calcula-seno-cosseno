@@ -3,5 +3,5 @@
 
 ### Depois ocorre o cálculo e a impressão do cosseno e do seno do ângulo desejado, usando as funções math.Cos(angulo) e math.Sin(angulo) como parâmetros de impressão do fmt.PrintLn().
 
-https://github.com/IsmaelVeras/calcula-seno-cosseno/blob/main/image.PNG
+![https://github.com/IsmaelVeras/calcula-seno-cosseno/blob/main/image.PNG]
 
